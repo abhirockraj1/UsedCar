@@ -1,0 +1,5 @@
+# ingnore
+/playground-series-s4e9/
+*.csv
+*.pkl
+.ipynb_checkpoints/
